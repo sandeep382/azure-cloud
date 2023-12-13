@@ -50,4 +50,4 @@ jobs:
           app-name: 'FirstAzureBootApp'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F50F1F8E5F4A4B4098707D04C6E8BE26 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_115F1EE7D0E743CAA7C6C7BEA10ED438 }}
